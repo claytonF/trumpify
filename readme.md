@@ -8,7 +8,7 @@ let trumpify = new Trumpify();
 ### Features will include: 
 
 #### .wall() method
-`trumpify.wall()` will build a wall along the southern border of any element assigned the .wall() method which currently only accepts one argument `trumpify.wall(mexico)`. This feature will be updated with new arguments in later releases.
+`trumpify.wall()` will build a wall along the southern border of any element assigned the .wall() method which currently only accepts one argument `trumpify.wall('mexico')`. This feature will be updated with new arguments in later releases.
 
 If an element or variable is of type Muslim it will first go through an extensive vetting process before being permanently deleted from the DOM
 
